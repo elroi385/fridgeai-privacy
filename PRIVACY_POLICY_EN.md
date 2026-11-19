@@ -1,4 +1,4 @@
-# FridgeAI – Privacy Policy (English draft)
+# TheCooker – Privacy Policy (English draft)
 
 
 > **DRAFT – not published, not legal advice.** Prepared 09/11/2026 from the
@@ -17,14 +17,14 @@ Last updated: [TO FILL: publication date]
 
 ## Who we are
 
-FridgeAI ("the app", "we") is developed and operated by Elroi Cohen, an
+TheCooker ("the app", "we") is developed and operated by Elroi Cohen, an
 independent developer (an individual, not a company), Israel.
 Privacy contact: thecooker232@gmail.com
 [TO FILL / LEGAL REVIEW: postal address, if required.]
 
 ## Who the app is for
 
-FridgeAI is intended for people **aged 13 and older**. It is not intended for
+TheCooker is intended for people **aged 13 and older**. It is not intended for
 children under 13. Users aged 13–17 get additional safety measures (see
 "Teens" below).
 
@@ -37,14 +37,13 @@ no user accounts, and we do not have a copy of this data. Android's automatic
 cloud backup is turned off for the app.
 
 ## What is sent to our server, and when
-
 Only when you choose to use an AI feature:
 
 | Feature | What is sent | Where it goes |
 |---|---|---|
-| Recognizing ingredients from a photo | The photo you picked, the app language, and your age group ("13–17" or "18+") | FridgeAI server → AI provider |
-| Creating a recipe | Your ingredient list; the options you chose (meal type, kosher, cooking time, servings, style, food preferences such as vegetarian or gluten-free, ingredients to avoid); titles of up to 10 recent suggestions (so the next idea is different); app language; measurement units; your age group | FridgeAI server → AI provider |
-| "Report a problem" with an AI recipe | See "Reports" below | FridgeAI server (stored) |
+| Recognizing ingredients from a photo | The photo you picked, the app language, and your age group ("13–17" or "18+") | TheCooker server → AI provider |
+| Creating a recipe | Your ingredient list; the options you chose (meal type, kosher, cooking time, servings, style, food preferences such as vegetarian or gluten-free, ingredients to avoid); titles of up to 10 recent suggestions (so the next idea is different); app language; measurement units; your age group | TheCooker server → AI provider |
+| "Report a problem" with an AI recipe | See "Reports" below | TheCooker server (stored) |
 
  - The app does not add a name, email address, phone number, advertising ID or device ID to AI requests. However, the photo or text you choose to send may itself contain personal information. Avoid photographing people, documents or identifying details, and avoid entering personal information that is not needed for the request. IP addresses are processed for communication and usage limits, as explained below.
  - **For ordinary AI requests, our server does not store** photos, ingredient lists, preferences or generated recipes. It passes the data to the AI provider to process the request, and the response returns to your device. If you choose to report a recipe, a copy of that recipe is stored as part of the report, as described under "Reports".
@@ -140,7 +139,7 @@ to this full policy.
   "13–17" or "18+", to apply the right safety rules; requests without it are
   refused.
 - **Safety measures for users under 18.** Our AI provider, Anthropic, has
-  extra requirements for apps used by people under 18. FridgeAI currently
+  extra requirements for apps used by people under 18. TheCooker currently
   has these safeguards, for all users:
   - Before using an AI feature, users choose their age group. This is
     self-declared; it is not checked against any document.
@@ -160,7 +159,7 @@ to this full policy.
   answer is suitable. Please use your own judgement in the kitchen.
 - [LEGAL REVIEW: which child-safety and privacy laws apply (for example
   Israel's Privacy Protection Law, and the US Children's Online Privacy
-  Protection Act (COPPA) if the app is offered in the US), whether FridgeAI
+  Protection Act (COPPA) if the app is offered in the US), whether TheCooker
   meets them, and what public compliance statement Anthropic's guidelines for
   organisations serving minors call for. Do not add any compliance claim
   before this review.]
