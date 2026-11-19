@@ -1,9 +1,9 @@
 ---
 layout: default
-title: FridgeAI Privacy Policy
+title: The Cooker Privacy Policy
 ---
 
-# FridgeAI — מדיניות פרטיות / Privacy Policy
+# The Cooker — מדיניות פרטיות / Privacy Policy
 
 המדיניות נמצאת כרגע בטיוטה ובבדיקה.
 The policy is currently a draft under review.
